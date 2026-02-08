@@ -1,0 +1,1 @@
+npx shadcn@latest add https://21st.dev/r/lovesickfromthe6ix/full-screen-scroll-fx
